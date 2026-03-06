@@ -13,7 +13,6 @@
 > Pls upload the Project Report PDF in Google form link
 
 # 5 Project Report in Claude Artifact
-> Submit the Claude Artifact URL link
 > [Claude Artifact URL link](https://claude.ai/public/artifacts/fe370127-664b-4122-86a0-0afddd718899)
 
 # 6 Project Explanation Video
